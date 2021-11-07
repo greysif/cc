@@ -10,8 +10,8 @@ const settings = {
 
 
 const params = {
-  cols: 10,
-  rows: 10,
+  cols: 20,
+  rows: 20,
   scaleMin: 1,
   scaleMax: 30,
   freq: 0.001,
